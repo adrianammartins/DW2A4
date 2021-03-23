@@ -1,0 +1,5 @@
+Para execução do projeto exibição de modulos é necessario que esteja executando em um servidor, 
+ou libere acesso ao javascirpt na sua maquina;
+
+Após habilitar paginas javascript, execute o index.html no browser, aperte f12 e vá na aba de console;
+Lá irá exibir os detalhes dos herois, conforme utilização de modulos no projeto.
